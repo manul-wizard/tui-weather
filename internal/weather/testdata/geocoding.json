@@ -1,0 +1,5 @@
+{"results":[
+ {"id":3128760,"name":"Barcelona","latitude":41.38879,"longitude":2.15899,"timezone":"Europe/Madrid","country":"Spain","admin1":"Catalonia","population":1620343},
+ {"id":3648559,"name":"Barcelona","latitude":10.13625,"longitude":-64.68618,"timezone":"America/Caracas","country":"Venezuela","admin1":"Anzoátegui"},
+ {"id":2993458,"name":"Monaco","latitude":43.73333,"longitude":7.41667,"timezone":"Europe/Monaco","country":"Monaco"}
+],"generationtime_ms":0.6}
